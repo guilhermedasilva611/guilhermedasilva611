@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá meu nome é Guilherme Bem-vindo ao meu github 👋🏾, estou com o objetivo de ingressar em um estágio.
 
-<!--
-**guilhermedasilva611/guilhermedasilva611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Para acessar meu LinekedIn clique no ícone abaixo:
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeeso/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso no meu dia a dia:
+
+<div style = "display: inline_block"><br/>
+<img align= "center" alt= "C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align= "center" alt= "C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div><br/>
+
+## Focado no desenvolvimento profissional!
