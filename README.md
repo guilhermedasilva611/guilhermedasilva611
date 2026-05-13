@@ -24,10 +24,6 @@ width="50"/>
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 width="50"/>
 
-<img align="center" alt="Docker"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-width="50"/>
-
 <img align="center" alt="AWS"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 width="50"/>
@@ -36,9 +32,6 @@ width="50"/>
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 width="50"/>
 
-<img align="center" alt="Linux"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-width="50"/>
 
 </div>
 
