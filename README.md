@@ -9,18 +9,38 @@
 
 ### Technologies i use on a daily basis:
 
-<div style = "display: inline_block"><br/>
+
+<div style="display: inline_block"><br/>
+
 <img align="center" alt="Python"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 width="50"/>
-<img align= "center" alt= "C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align= "center" alt= ".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align= "center" alt= "" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align= "center" alt= "" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align= "center" alt= "" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img align= "center" alt= "ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-</div><br/>
+<img align="center" alt="PostgreSQL"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+width="50"/>
+
+<img align="center" alt="MySQL"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+width="50"/>
+
+<img align="center" alt="Docker"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+width="50"/>
+
+<img align="center" alt="AWS"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+width="50"/>
+
+<img align="center" alt="Git"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+width="50"/>
+
+<img align="center" alt="Linux"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+width="50"/>
+
+</div>
 
 
 
